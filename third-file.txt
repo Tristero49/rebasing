@@ -1,1 +1,3 @@
-Third file is now present
+Third file is now present.
+
+New line is added.
